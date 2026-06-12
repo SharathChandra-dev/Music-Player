@@ -124,6 +124,14 @@ GitHub: https://github.com/SharathChandra-dev/Music-Player
 
 ---
 
+## 👨 Author
+
+Sharath Chandra Chandrashekhar
+
+Fullstack Developer specializing in React and JavaScript applications.
+
+---
+
 ## 📄 License
 
 This project is open-source and available under the MIT License.
